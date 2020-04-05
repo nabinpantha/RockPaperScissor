@@ -15,7 +15,7 @@ public class Function {
 	int computerValue() {
 		
 		int value = (int) (Math.random() * 3 + 1);  
-		
+		// nabin is good boy.
 		return value;
 	}
 	
